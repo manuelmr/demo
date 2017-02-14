@@ -5,7 +5,7 @@ jdk:
 
 branches:
   only:
-    - master
+    - master	
 
 script:
-	gradle check
+    - gradle check
